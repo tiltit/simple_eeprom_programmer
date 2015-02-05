@@ -1,0 +1,108 @@
+Cmp-Mod V01 Created by Cvpcb (2014-11-24 BZR 5301)-product   date = Thu 05 Feb 2015 06:35:19 PM CET
+
+BeginCmp
+TimeStamp = /53FA7E22;
+Reference = C1;
+ValeurCmp = 22p;
+IdModule  = Discret:C2;
+EndCmp
+
+BeginCmp
+TimeStamp = /53FA7E34;
+Reference = C2;
+ValeurCmp = 22p;
+IdModule  = Discret:C2;
+EndCmp
+
+BeginCmp
+TimeStamp = /53FA89CF;
+Reference = C3;
+ValeurCmp = 470uf;
+IdModule  = Capacitors_Elko_ThroughHole:Elko_vert_DM8_RM3-5;
+EndCmp
+
+BeginCmp
+TimeStamp = /53FA89E1;
+Reference = C4;
+ValeurCmp = 4.7uf;
+IdModule  = Capacitors_Elko_ThroughHole:Elko_vert_DM5_RM2_CopperClear;
+EndCmp
+
+BeginCmp
+TimeStamp = /53FA89EC;
+Reference = C5;
+ValeurCmp = 4.7uf;
+IdModule  = Capacitors_Elko_ThroughHole:Elko_vert_DM5_RM2_CopperClear;
+EndCmp
+
+BeginCmp
+TimeStamp = /53FA89F7;
+Reference = C6;
+ValeurCmp = 4.7uf;
+IdModule  = Capacitors_Elko_ThroughHole:Elko_vert_DM5_RM2_CopperClear;
+EndCmp
+
+BeginCmp
+TimeStamp = /53FA7C19;
+Reference = CN1;
+ValeurCmp = FTDI_CONECTOR;
+IdModule  = Pin_Headers:Pin_Header_Straight_1x06;
+EndCmp
+
+BeginCmp
+TimeStamp = /53FA87EC;
+Reference = D1;
+ValeurCmp = LED;
+IdModule  = LEDs:LED-3MM;
+EndCmp
+
+BeginCmp
+TimeStamp = /53FA7D9A;
+Reference = R1;
+ValeurCmp = 10K;
+IdModule  = Resistors_ThroughHole:Resistor_Horizontal_RM10mm;
+EndCmp
+
+BeginCmp
+TimeStamp = /53FA87FE;
+Reference = R2;
+ValeurCmp = 1K;
+IdModule  = Resistors_ThroughHole:Resistor_Horizontal_RM10mm;
+EndCmp
+
+BeginCmp
+TimeStamp = /53FB51E6;
+Reference = R3;
+ValeurCmp = 1K;
+IdModule  = Resistors_ThroughHole:Resistor_Horizontal_RM10mm;
+EndCmp
+
+BeginCmp
+TimeStamp = /53FA7D86;
+Reference = SW1;
+ValeurCmp = SW_PUSH;
+IdModule  = Puch_button_TH:Puch_button_TH;
+EndCmp
+
+BeginCmp
+TimeStamp = /53FA7B47;
+Reference = U1;
+ValeurCmp = pic16f877a;
+IdModule  = Sockets_DIP:DIP-40__600;
+EndCmp
+
+BeginCmp
+TimeStamp = /53FA7A21;
+Reference = U2;
+ValeurCmp = 28256;
+IdModule  = Sockets_DIP:DIP-28__600;
+EndCmp
+
+BeginCmp
+TimeStamp = /53FA7E0E;
+Reference = X1;
+ValeurCmp = 20Mhz;
+IdModule  = Crystals:Crystal_HC50-U_Vertical;
+EndCmp
+
+EndListe
